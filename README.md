@@ -88,13 +88,13 @@ User Interface Using Streamlit
 
 We took 4 Classes dataset Containing
 
-Akshay Kumar, Vijay , Prabhas , Amithabh Bacchan
+**Akshay Kumar, Vijay , Prabhas , Amithabh Bacchan**
 
-Here Uploaded file is of Akshay kumar And it predicted Accurate
+**An image of Akshay Kumar was uploaded, and the model accurately identified it, demonstrating its reliability and precision.**
 
 ![output ok](https://github.com/user-attachments/assets/2e480595-886c-4098-ba07-6c212eeabf28)
 
-And I tested on Other Image to Check model is doing well.
+**Additional images were tested to validate the model's accuracy and ensure correct predictions in diverse scenarios.**
 
 ![output false](https://github.com/user-attachments/assets/b75e5e97-2e88-4497-840a-266ddfab8eff)
 

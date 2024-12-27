@@ -1,12 +1,13 @@
 # Visionary-Advanced-Image-Recognition-for-the-Next-Era_Infosys_Internship_Oct2024
 
 
-## Advanced-Image-Recognition-for-the-Next-Era_Infosys_Internship_Oct2024
+## Advanced-Image-Recognition-for-the-Next-Era_Infosys_Internship_Oct2024 🔍 
 
 Overview
 
 This project involves building an advanced image recognition system using machine learning techniques. The model achieves high prediction accuracy by utilizing data preprocessing, feature extraction, and model optimization. The system is scalable for real-time applications and has been implemented with Python, OpenCV, and TensorFlow/Keras.
-## Features
+
+## Features  📈
 
 - **Accurate Predictions**: Achieved approximately 100% accuracy through advanced model optimization techniques.
 - **Real-time Recognition**: Processes input images and generates results instantly.
@@ -15,7 +16,7 @@ This project involves building an advanced image recognition system using machin
 - **Secure Deployment**: Dockerized for deployment with enhanced reliability and security.
 
 
-## Tech Stack
+## Tech Stack 💻
 
 
 - **Languages**: Python
@@ -27,7 +28,7 @@ This project involves building an advanced image recognition system using machin
 - **Deployment Tools**: Docker
 
 
-## System Architecture 
+## System Architecture 🏗️
 
 - **Data Preprocessing**: Enhances input image quality through normalization and augmentation.
 
@@ -37,7 +38,7 @@ This project involves building an advanced image recognition system using machin
 
 - **Prediction and Output**: Outputs labels and confidence scores for each image.
 
-## Setup Instructions
+## Setup Instructions⚙️
 
 
 **Clone the repository**
@@ -76,7 +77,7 @@ streamlit run app.py
 - View labels and confidence scores in real-time.
 
 
-## Screenshots
+## Screenshots 🖼️
 
 **Input Interface**
 
@@ -84,7 +85,7 @@ User Interface Using Streamlit
 ![Screenshot_20241227_095140](https://github.com/user-attachments/assets/96ae9d74-b91a-41c7-8db9-e8dedcd1a223)
 
 
-**Prediction Results**
+**Prediction Results**✅
 
 We took 4 Classes dataset Containing
 
